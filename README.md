@@ -13,5 +13,5 @@ In the project directory, you can run:
 ### `http://localhost:3000/cart`: cart 
 
 ## Demo:
-
+### http://vuthanhvu.github.io/shopping-cart-shoes
 
